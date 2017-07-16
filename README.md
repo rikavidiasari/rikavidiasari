@@ -1,0 +1,2 @@
+# rikavidiasari
+tugas sistem operasi
